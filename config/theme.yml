@@ -2,7 +2,8 @@ parent: classic
 name: mbe_classic
 display_name: Child theme of classic's theme for MBE Etc.
 version: 1.0.0
-author: José M. Cornelio
-email: ecommerce1@MBE.com.do
+author:
+  name: José M. Cornelio
+  email: ecommerce1@MBE.com.do
 assets:
   use_parent_assets: false
