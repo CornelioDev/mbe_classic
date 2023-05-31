@@ -54,6 +54,8 @@ a:hover {
 .carousel,
 .carousel-inner {
     position: relative;
+    max-width: 1900px;
+    margin: 0 auto;
 }
 
 .slider-text {
