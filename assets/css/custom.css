@@ -144,3 +144,30 @@ ul {
 #custom-text h2 {
     color: #f6f6f6;
 }
+
+/* Footer */
+.btn-primary,
+.btn-primary:hover {
+    background-color: #cd0a0a;
+}
+
+.footer-container {
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+    margin-top: 2.5rem;
+    background-color: #232323;
+}
+
+.footer-container .h1, .h2, .h3, .h4 {
+    color: #f6f6f6 !important;
+}
+
+.footer-container a {
+    color: #cd0a0a;
+}
+
+.account-list a:hover,
+.block_newsletter form button[type=submit] .search:hover,
+.footer-container li a:hover {
+    color: #cd0a0a;
+}
