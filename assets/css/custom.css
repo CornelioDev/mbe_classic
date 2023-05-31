@@ -21,6 +21,15 @@
     background: #cd0a0a;
 }
 
+/* Home Slider (Full-Width) */
+.carousel {
+    margin-bottom: 0;
+}
+
+.carousel .carousel-inner {
+    height: 600px;
+    background-color: #7a7a7a;
+}
 
 /* Products Gallery */
 .product-flags li.product-flag {
@@ -40,6 +49,16 @@
 
 .product-miniature .highlighted-informations .quick-view:hover {
     color: #cd0a0a;
+}
+
+/* Page Content */
+.page-content.page-cms ul,
+dl,
+ol,
+p,
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 /* Custom Text Block */
