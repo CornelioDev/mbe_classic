@@ -1,3 +1,4 @@
+/* Nav Header */
 #header .header-nav {
     background: #232323;
 }
@@ -18,4 +19,25 @@
 
 #header .header-nav .cart-preview.active {
     background: #cd0a0a;
+}
+
+
+/* Products Gallery */
+.product-flags li.product-flag {
+    background: #cd0a0a;
+}
+
+.product-flags li.product-flag.discount,
+.product-flags li.product-flag.discount-amount,
+.product-flags li.product-flag.discount-percentage {
+    background-color: #232323;
+}
+
+.product-miniature .highlighted-informations .quick-view {
+    font-size: 1rem;
+    color: #7a7a7a
+}
+
+.product-miniature .highlighted-informations .quick-view:hover {
+    color: #cd0a0a;
 }
