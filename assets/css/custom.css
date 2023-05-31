@@ -41,3 +41,28 @@
 .product-miniature .highlighted-informations .quick-view:hover {
     color: #cd0a0a;
 }
+
+/* Custom Text Block */
+#custom-text {
+    background: #cd0a0a;
+}
+
+#custom-text .page-content.page-cms ul .dark,
+#custom-text p .dark,
+.page-content.page-cms #custom-text ul .dark {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #f6f6f6;
+}
+
+#custom-text .page-content.page-cms ul,
+#custom-text p,
+.page-content.page-cms #custom-text ul {
+    font-size: .875rem;
+    font-weight: 400;
+    color: #f6f6f6;
+}
+
+#custom-text h2 {
+    color: #f6f6f6;
+}
