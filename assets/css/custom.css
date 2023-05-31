@@ -21,6 +21,20 @@
     background: #cd0a0a;
 }
 
+.popover {
+    background-color: #cd0a0a;
+}
+
+#header .popover a:hover {
+    color: #7a7a7a;
+}
+
+#header .top-menu a[data-depth="0"]:hover,
+a:hover {
+    color: #cd0a0a;
+    text-decoration: none
+}
+
 /* Home Slider (Full-Width) */
 .carousel {
     margin-bottom: 0;
